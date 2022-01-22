@@ -1,4 +1,4 @@
-public portfolio
+#public portfolio
 hey welcome to my portfolio 
 today i give you some information about coding 
 how to start coding for beginner 
