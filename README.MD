@@ -10,3 +10,4 @@ where we learn how to code
 after that practice it on laptop/computer
 i know we dont understant it in begning but after some class and practicing it ,
 we are able to understand
+ok byyyyy
