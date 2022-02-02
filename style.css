@@ -1,0 +1,71 @@
+body{
+color:blue
+
+}
+li{
+
+list-style-type:circle
+
+}
+.special{
+color: rgb(0, 255, 213);
+padding-left: 200px;
+padding-right: 234px;
+font-weight: bolder;
+}
+
+h1+p{
+
+font-size: 20px;
+}
+
+
+a:hover{
+
+color:rgb(20, 220, 127);
+text-decoration:none ;
+
+
+
+}
+
+body p+ul{
+
+    color: rgb(100, 0, 30);
+    background-color:blueviolet ;
+    padding:5px
+    
+    }
+
+#heading{
+
+color: chartreuse;
+background-color: cyan;
+
+
+}
+
+li[class]{
+
+font-size: 200%;
+
+
+
+}
+
+li[class="a"]{
+
+color:yellow
+
+
+
+
+}
+
+
+*{
+
+list-style-type: none;
+
+}
+    
